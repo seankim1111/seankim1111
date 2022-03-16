@@ -1,4 +1,4 @@
-### Hi there 👋👋👋👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=74F526&height=250&section=header&text=Yongsun%20Kim&fontSize=91&fontColor=EF27F5)
 
 <!--
 **seankim1111/seankim1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
